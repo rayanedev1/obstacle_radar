@@ -26,8 +26,8 @@ Based on your technical schematic, here is the precise pin configuration used fo
 | Component | Arduino Pin | Wire Color (Visual) | Function |
 | :--- | :--- | :--- | :--- |
 | **Ultrasonic Trig** | `PIN 10` | 🟣 Purple | Trigger Pulse |
-| **Ultrasonic Echo** | `PIN 9` | 🔵 Dark Blue | Signal Reception |
-| **Servo Signal** | `PIN 11` | 🟣 Purple | PWM Angle Control |
+| **Ultrasonic Echo** | `PIN 11` | 🔵 Dark Blue | Signal Reception |
+| **Servo Signal** | `PIN 12` | 🟣 Purple | PWM Angle Control |
 | **Power (VCC)** | `5V` | 🔴 Red | 5V Common Rail |
 | **Ground (GND)** | `GND` | 🔵 Blue | Ground Rail |
 
